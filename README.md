@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was a gifs searchs, only search teen gifs but you change this
+
 ## Available Scripts
 
 In the project directory, you can run:
