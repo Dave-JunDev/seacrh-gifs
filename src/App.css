@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-content {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  flex-wrap: wrap;
+}
+img{
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: auto;
+}
+h1{
+  background-color: #282c34;
+  color: white;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+input{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 50%;
+  height: 30px;
+  border-radius: 16px;
+  border-style: none;
+  font-size: 20px;
+}
