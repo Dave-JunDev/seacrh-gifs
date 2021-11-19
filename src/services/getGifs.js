@@ -1,4 +1,4 @@
-const apiKey = ""
+const apiKey = "place your api key here!!!"
 
 
 export default function getGifs({keyword = ''} = {} ) {
