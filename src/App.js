@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import ListOfGifs from './components/listofGifs';
+import ListOfGifs from './componentes/listofGifs'
 
 
 function App() {
