@@ -15,7 +15,7 @@ function App() {
 				placeholder="Que deseas buscar?"
 			/>
 			<section className="App-content">
-				<ListOfGifs keyword={keyword} numGifs={5} />
+				<ListOfGifs keyword={keyword} numGifs={10} />
 			</section>
 		</div>
 	);
